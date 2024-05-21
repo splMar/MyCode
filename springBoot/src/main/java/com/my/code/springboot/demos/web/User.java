@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.my.code.mycode.demos.web;
+package com.my.code.springboot.demos.web;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>

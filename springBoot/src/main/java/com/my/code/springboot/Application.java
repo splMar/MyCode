@@ -1,13 +1,13 @@
-package com.my.code.mycode;
+package com.my.code.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyCodeApplication {
+public class Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyCodeApplication.class, args);
+        SpringApplication.run(Application.class, args);
     }
 
 }
