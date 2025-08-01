@@ -21,4 +21,10 @@ public class TestController {
     public String test() {
         return "成功！";
     }
+
+
+    @GetMapping("/gitTest1")
+    public String gitTest1() {
+        return "成功1！";
+    }
 }
